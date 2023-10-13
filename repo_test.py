@@ -98,3 +98,10 @@ if place=="in the bedroom":
 
 
 
+
+
+
+
+
+
+
