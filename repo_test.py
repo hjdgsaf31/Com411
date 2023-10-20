@@ -97,6 +97,8 @@ if place=="in the bedroom":
     place = input()
 
 
+print("Hello world")
+
 
 
 
