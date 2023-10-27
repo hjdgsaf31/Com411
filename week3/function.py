@@ -3,7 +3,7 @@ print("Program Started")
 print("Please enter the character: ")
 
 characters = input()
-if len(characters) ==1:
+if len(characters) == 1:
     print(f"the ascending order for {characters} is {ord(characters)}")
 else:
     print("a single character")
